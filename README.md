@@ -1,11 +1,17 @@
+# 🌐 Portfolio Website
 
-  # Portfolio Website
+A modern personal portfolio built to showcase my work, experience, and projects.  
 
-  This is a code bundle for Portfolio Website. The original project is available at https://www.figma.com/design/n9bkx5m9Fzj4GkM6O3jPPc/Portfolio-Website.
+Live site: **[https://joshuahee.netlify.app/](https://joshuahee.netlify.app/)**  
 
-  ## Running the code
+---
 
-  Run `npm i` to install the dependencies.
+## 💡 About
 
-  Run `npm run dev` to start the development server.
-  
+This portfolio highlights my background in IT, web development, and cybersecurity.  
+It’s a clean, responsive, and minimal website that serves as my personal space online.
+
+---
+
+🧑‍💻 **Author:** Joshua Hee  
+✨ _Built with creativity, passion, and modern web tools._
